@@ -8,7 +8,8 @@ Identify crime hotspots
 Analyze time-based trends
 Understand victim demographics
 Provide actionable recommendations
-🛠️ Tools Used
+
+Tools Used
 SQL (PostgreSQL / MySQL)
 Tableau
 Excel / CSV
