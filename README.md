@@ -1,34 +1,34 @@
 # Los Angeles Crime Data Analysis
-Project Overview
+## Project Overview
 
 This project analyzes crime data from Los Angeles to uncover patterns, trends, and actionable insights for law enforcement.
 
-Objectives
+## Objectives
 Identify crime hotspots
 Analyze time-based trends
 Understand victim demographics
 Provide actionable recommendations
 
-Tools Used
+## Tools Used
   SQL (PostgreSQL / MySQL)
   Tableau
   Excel / CSV
 
-Project Structure
+## Project Structure
 data/ → Raw dataset
 sql/ → SQL analysis queries
 tableau/ → Dashboard
 reports/ → Intelligence report
 
-Dataset obtained from 
+## Dataset source 
 https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/about_data
 
-Key Insights
+## Key Insights
 Certain areas have significantly higher crime rates - Central, Southwest, 77th Street area have more than 10,000 crimes reported
 Crimes peak during midday, evening and night hours 
 Specific victim groups are more affected - Both Men and Women in their 30s are the most affected followed by 20s
 
-Tableau Dashboard link
+## Tableau Dashboard link
 https://public.tableau.com/app/profile/mohamed.thoufique.ziyavudeen/viz/LosAngelesCrimedashboard/LACrimeDashboard
 
 
