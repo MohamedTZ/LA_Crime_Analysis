@@ -10,9 +10,9 @@ Understand victim demographics
 Provide actionable recommendations
 
 Tools Used
-SQL (PostgreSQL / MySQL)
-Tableau
-Excel / CSV
+  SQL (PostgreSQL / MySQL)
+  Tableau
+  Excel / CSV
 
 Project Structure
 data/ → Raw dataset
