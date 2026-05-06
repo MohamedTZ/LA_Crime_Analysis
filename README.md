@@ -20,6 +20,9 @@ sql/ → SQL analysis queries
 tableau/ → Dashboard
 reports/ → Intelligence report
 
+Dataset obtained from 
+https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/about_data
+
 Key Insights
 Certain areas have significantly higher crime rates - Central, Southwest, 77th Street area have more than 10,000 crimes reported
 Crimes peak during midday, evening and night hours 
