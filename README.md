@@ -1,7 +1,7 @@
 # Los Angeles Crime Data Analysis
 ## Project Overview
 
-The main purpose of this portfolio data analytic project is to uncover patterns, trends, and actionable insights for law enforcement.
+The main purpose of this portfolio data analytics project is to uncover patterns, trends, and actionable insights for law enforcement.
 
 ## Objectives
 * Identify crime hotspots
