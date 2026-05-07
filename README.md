@@ -45,7 +45,7 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 3) Specific victim groups are more affected - Both Men and Women in their 30s are the most affected followed by 20s
 
 ## Tableau Dashboard link
-https://public.tableau.com/app/profile/mohamed.thoufique.ziyavudeen/viz/LosAngelesCrimedashboard/LACrimeDashboard
+https://public.tableau.com/views/LACrimeDashboardsStories/EthnicityAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![This is an image](https://github.com/MohamedTZ/LA_Crime_Analysis/blob/main/Crime%20patterns%20%26%20hotspots.jpg)
 
