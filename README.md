@@ -10,7 +10,7 @@ The main purpose of this portfolio data analytics project is to uncover patterns
 * Provide actionable recommendations
 
 ## Tools Used
-* SQL (PostgreSQL / MySQL)
+* SQL (MySQL)
 * Tableau
 * Excel / CSV
 
