@@ -39,10 +39,12 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 * victim_descent_full - Full description of victim's ethnicity
 
 ## Key Insights
-1) Certain areas have significantly higher crime rates
-   * Central, Southwest, 77th Street area have more than 10,000 crimes reported
-2) Crimes peak during afternoon (12 pm to 6 pm), evening (6 pm to 12 am) and morning hours (6 am to 12 pm)
-3) Specific victim groups are more affected - Both Men and Women in their 30s are the most affected followed by 20s
+1) Location: Central ranks number 1 crime spot with 10816 crimes
+2) Time: Peak crime hours are between 6 pm and 8 pm at 2153 crimes
+3) Type: Burglary, Assault, Theft are the top crime categories
+4) Victim age: Victim in their 30s and 20s are the most affected
+5) Men are more likely to be a victim
+6) White and Latino are the most targeted ethnic groups followed by Black
 
 ## Tableau Dashboard link
 https://public.tableau.com/views/LACrimeDashboardsStories/EthnicityAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
