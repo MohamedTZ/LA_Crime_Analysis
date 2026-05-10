@@ -43,7 +43,7 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 2) Time: Peak crime hours are between 6 pm and 8 pm at 2153 crimes
 3) Type: Burglary, Assault, Theft are the top crime categories
 4) Victim Age: Victim in their 30s and 20s are the most affected
-5) victim Gender: Men are more likely to be a victim
+5) Victim Gender: Men are more likely to be a victim
 6) Victim Ethnicity: White and Latino are the most targeted ethnic groups followed by Black
 
 ## Tableau Dashboard link
