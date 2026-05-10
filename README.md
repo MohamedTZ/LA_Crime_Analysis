@@ -47,7 +47,7 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 6) Victim Ethnicity: White and Latino are the most targeted ethnic groups followed by Black
 
 ## Tableau Dashboard link
-https://public.tableau.com/views/LACrimeDashboardsStories/EthnicityAnalysis?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/mohamed.thoufique.ziyavudeen/viz/LACrimeDashboardsStories/Story1
 
 ![This is an image](https://github.com/MohamedTZ/LA_Crime_Analysis/blob/main/Crime%20patterns%20%26%20hotspots.jpg)
 
