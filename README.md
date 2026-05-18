@@ -10,9 +10,9 @@ The main purpose of this portfolio data analytics project is to uncover patterns
 * Provide actionable recommendations
 
 ## Tools Used
+* Python
 * SQL (MySQL)
 * Tableau
-* Excel / CSV
 
 ## Project Structure
 * data/ → Raw dataset
@@ -23,7 +23,7 @@ The main purpose of this portfolio data analytics project is to uncover patterns
 ## Dataset source 
 https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/about_data
 
-## Dataset
+## Cleaned Dataset
 * DR_NO - Division of Records Number: Official file number made up of a 2 digit year, area ID, and 5 digits
 * date_reported - Date the crime was reported
 * date_occurred - Date the crime was commited
