@@ -47,7 +47,7 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 - Which areas have the highest repeat concentration of high-risk crime profiles? (Which areas repeatedly experience the same high-risk combination of crime type, victim profile, and time period?)
 
 ### Intermediate
-- TOP 5 most common crimes
+- Top 5 most common crimes
 - Crimes by Period of the day: Breaking down by morning, afternoon, evening and night
 - Crimes by Area
 - Crimes by age group
@@ -59,7 +59,16 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 - Victim targeting patterns
 - Case resolution rate
 
-### Basic
+### EDA and Time based exploration
+- How many records are there in the dataset?
+- What are the distinct crime types?
+- Crimes per year
+- Crimes by hour of the day
+- Missing Values
+- Which areas have the highest crime?
+- Victim age distribution
+- Victim gender
+- Weapons analysis
 
 ## Key Insights
 1) Location: Central ranks number 1 crime spot with 10816 crimes
