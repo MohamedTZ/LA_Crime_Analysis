@@ -38,6 +38,29 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 * address - Street address of the crime
 * victim_descent_full - Full description of victim's ethnicity
 
+## SQL queries
+### Advanced
+- Which crime types are increasing the fastest year-over-year in each area? (Which offences are showing the strongest growth in each police division, indicating emerging threats?)
+- What are the peak crime hours for each area and what crime types dominate those periods? (At what times does each area experience the highest crime volume, and which offences are most common during those hours?)
+- Which victim demographic groups are disproportionately affected by specific crime types? (Which combinations of age group, sex, and descent appear most frequently for major crimes?)
+- Which weapons are most associated with violent crimes, and in which areas are they concentrated? (What weapons are used most often in violent incidents, and where do those incidents occur most frequently?)
+- Which areas have the highest repeat concentration of high-risk crime profiles? (Which areas repeatedly experience the same high-risk combination of crime type, victim profile, and time period?)
+
+### Intermediate
+- TOP 5 most common crimes
+- Crimes by Period of the day: Breaking down by morning, afternoon, evening and night
+- Crimes by Area
+- Crimes by age group
+- Crime reporting delay
+- Above average crime areas
+- Serial crime patterns
+- Weapons usage by crime type
+- Peak crime type by area
+- Victim targeting patterns
+- Case resolution rate
+
+### Basic
+
 ## Key Insights
 1) Location: Central ranks number 1 crime spot with 10816 crimes
 2) Time: Peak crime hours are between 6 pm and 8 pm at 2153 crimes
