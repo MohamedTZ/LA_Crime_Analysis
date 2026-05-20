@@ -76,3 +76,75 @@ SELECT
 	timestampdiff(DAY, date_occurred, date_reported) AS delay_in_days
 FROM crimes t
 ORDER BY delay_in_days;
+
+-- Above average crime areas
+SELECT
+	area,
+    COUNT(*) AS total_crimes
+FROM crimes
+GROUP BY area
+HAVING COUNT(*) > 
+	(SELECT AVG(cnt)
+	 FROM 
+		(SELECT 
+			COUNT(*) AS cnt
+		FROM crimes
+		GROUP BY area) t1
+        ) 
+ORDER BY total_crimes DESC;
+
+-- Serial crime patterns (crime + area)
+SELECT 
+    area,
+    crime_desc,
+    COUNT(*) AS total_crimes
+FROM crimes
+GROUP BY area, crime_desc
+HAVING COUNT(*) > 100
+ORDER BY area, total_crimes DESC;
+
+-- Weapons usage by crime type
+SELECT
+	area,
+	crime_desc,
+    weapon_desc,
+    COUNT(*) AS total_crimes
+FROM crimes
+WHERE weapon_desc IS NOT NULL
+GROUP BY area, crime_desc, weapon_desc
+ORDER BY area, total_crimes DESC;
+
+-- Peak crime time per area
+WITH crime_hour_area AS 
+	(SELECT
+		EXTRACT(HOUR FROM time_occurred) AS hour,
+		area,
+		COUNT(*) AS total_crimes,
+		RANK() OVER(PARTITION BY area ORDER BY COUNT(*) DESC) AS rnk
+	FROM crimes
+	GROUP BY EXTRACT(HOUR FROM time_occurred), area)
+SELECT
+	hour,
+    area,
+    total_crimes
+FROM crime_hour_area
+WHERE rnk = 1;
+
+-- Victim targeting patterns
+
+SELECT 
+    crime_desc,
+    vict_sex,
+    COUNT(*) AS total
+FROM crimes
+GROUP BY crime_desc, vict_sex
+ORDER BY total DESC;
+
+-- Case resolution rate
+SELECT 
+    status_desc,
+    COUNT(*) AS total,
+    ROUND(100.0 * COUNT(*) / SUM(COUNT(*)) OVER (), 2) AS percentage
+FROM crimes
+GROUP BY status_desc;
+
