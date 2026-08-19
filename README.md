@@ -77,6 +77,7 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 4) Victim Age: Victim in their 30s and 20s are the most affected
 5) Victim Gender: Men are more likely to be a victim 
 6) Victim Ethnicity: Hispanic victims are the most targeted ethnic groups followed by White
+7) Weapon: Strong-arm (Body force) is the most reported weapon used
 
 ## Tableau Dashboard link
 https://public.tableau.com/app/profile/mohamed.thoufique.ziyavudeen/viz/LACrimeDashboardsStories/Story1
