@@ -28,7 +28,7 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 * date_reported - Date the crime was reported
 * date_occurred - Date the crime was commited
 * time_occurred - Time of the crime in 24 hour format
-* area - The 21 Geographic Areas or Patrol Divisions are also given a name designation that references a landmark or the surrounding community that it is responsible for. For example 77th Street Division is located at the intersection of South Broadway and 77th Street, serving neighborhoods in South Los Angeles.
+* area - The 21 Geographic Areas or Patrol Divisions are also given a name designation that references a landmark or the surrounding community that it is responsible for. For example 77th Street Division is located at the intersection of South Broadway and 77th Street, serving neighbourhoods in South Los Angeles.
 * crime_desc - Defines the Crime Code provided.
 * vict_age - Victim age
 * vict_sex - Victim gender
@@ -71,12 +71,12 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 - Weapons analysis
 
 ## Key Insights
-1) Location: Central ranks number 1 crime spot with 10816 crimes
-2) Time: Peak crime hours are between 6 pm and 8 pm at 2153 crimes
-3) Type: Burglary, Assault, Theft are the top crime categories
+1) Location: Central ranks number 1 crime spot with 69,654 crimes
+2) Peak Crime Hour: 67,783 crimes reported between 12 pm and 1 pm 
+3) Crime Type: Stolen Vehicles, Battery Simple Assault, Burglary from Vehicles are the top 3 crime categories
 4) Victim Age: Victim in their 30s and 20s are the most affected
-5) Victim Gender: Men are more likely to be a victim
-6) Victim Ethnicity: White and Latino are the most targeted ethnic groups followed by Black
+5) Victim Gender: Men are more likely to be a victim 
+6) Victim Ethnicity: Hispanic victims are the most targeted ethnic groups followed by White
 
 ## Tableau Dashboard link
 https://public.tableau.com/app/profile/mohamed.thoufique.ziyavudeen/viz/LACrimeDashboardsStories/Story1
