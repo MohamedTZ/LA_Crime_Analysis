@@ -11,11 +11,11 @@ The main purpose of this portfolio data analytics project is to uncover patterns
 
 ## Tools Used
 * Python
-* SQL (MySQL)
+* SQL (MySQL and duckdb)
 * Tableau
 
 ## Project Structure
-* data/ → Raw dataset
+* python/ → Raw dataset
 * sql/ → SQL analysis queries
 * tableau/ → Dashboard
 * reports/ → Intelligence report
