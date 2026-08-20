@@ -72,7 +72,7 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 
 ## Key Insights
 1) Location: Central ranks number 1 crime spot with 69,654 crimes reported between 2020 and 2024
-2) Peak Crime Hour: 67,783 crimes reported between 12 pm and 1 pm 
+2) Peak Crime Hour: 67,783 crimes reported between 12 pm and 1 pm. Night time (9 PM to 5 AM) leads the period of day with over 278,000 crimes reported overall.
 3) Crime Type: Stolen Vehicles, Battery Simple Assault, Burglary from Vehicles were the top 3 crime categories
 4) Victims' Age: Victim in their 30s and 20s are the most affected
 5) Victims' Gender: Men are more likely to be a victim 
