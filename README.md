@@ -1,7 +1,7 @@
 # Los Angeles Crime Data Analysis
 ## Project Overview
 
-The main purpose of this portfolio data analytics project is to uncover patterns, trends, and actionable insights for law enforcement.
+The main purpose of this portfolio data analytics project is to uncover patterns, trends, and actionable insights for law enforcement in the city of Los Angeles, USA.
 
 ## Objectives
 * Identify crime hotspots
@@ -71,13 +71,16 @@ https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-2024/2nrs-mtv8/abo
 - Weapons analysis
 
 ## Key Insights
-1) Location: Central ranks number 1 crime spot with 69,654 crimes
+1) Location: Central ranks number 1 crime spot with 69,654 crimes reported between 2020 and 2024
 2) Peak Crime Hour: 67,783 crimes reported between 12 pm and 1 pm 
-3) Crime Type: Stolen Vehicles, Battery Simple Assault, Burglary from Vehicles are the top 3 crime categories
-4) Victim Age: Victim in their 30s and 20s are the most affected
-5) Victim Gender: Men are more likely to be a victim 
-6) Victim Ethnicity: Hispanic victims are the most targeted ethnic groups followed by White
-7) Weapon: Strong-arm (Body force) is the most reported weapon used
+3) Crime Type: Stolen Vehicles, Battery Simple Assault, Burglary from Vehicles were the top 3 crime categories
+4) Victims' Age: Victim in their 30s and 20s are the most affected
+5) Victims' Gender: Men are more likely to be a victim 
+6) Victims' Ethnicity: Hispanic victims are the most targeted ethnic groups followed by White
+7) Weapon: Strong-arm (Body force) is the most reported weapon used with over 170,000 crimes, followed by unknown weapon at over 36,000, verbal threat over 23,000 and Hand Gun around 20,000. Other crimes were less than 7300. 
+
+## Detailed Analysis Report
+For full detailed analysis, please see LA Crime Analysis.pdf
 
 ## Tableau Dashboard link
 https://public.tableau.com/app/profile/mohamed.thoufique.ziyavudeen/viz/LACrimeDashboardsStories/Story1
